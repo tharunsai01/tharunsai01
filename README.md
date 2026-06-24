@@ -56,8 +56,6 @@ An AI-powered digital forensics solution designed to detect manipulated videos a
 
 * Tata Cybersecurity Analyst Job Simulation – Forage
 * Networking Basics – Cisco Networking Academy
-* Palo Alto Networks Certified Cybersecurity Practitioner
-* Certified Cybersecurity Educator Professional (CCEP)
 
 ---
 
