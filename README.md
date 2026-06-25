@@ -91,6 +91,8 @@ Contributed to event operations and content documentation to enhance event outre
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunsai01)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tharunsai-portfolio.vercel.app/)
+
 ---
 
 > "Securing the digital world through continuous learning, innovation, and practical problem-solving."
